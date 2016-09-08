@@ -12,7 +12,7 @@ Knowing a way of interacting with the computer to exploit its full capacity, to 
 
 All programming languages work very much in the same way. We will actually use only one language, but I will give examples in many other languages and I'll explain the differences between them.
 
-# What are the aims of the course?
+## What are the aims of the course?
 
 * To teach you what lead to the development/invention of the computer and what it can and cannot do and how it does it.
 
