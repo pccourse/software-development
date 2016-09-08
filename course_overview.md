@@ -14,7 +14,7 @@ All programming languages work very much in the same way. We will actually use o
 
 ## What are the aims of the course?
 
-* To teach you what lead to the development/invention of the computer and what it can and cannot do and how it does it.
+* To teach you what led to the development/invention of the computer and what it can and cannot do and how it does it.
 
 * To teach you how languages are formalised and how language can be used to instruct a computer what to do.
 
